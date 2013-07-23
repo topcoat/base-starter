@@ -1,4 +1,6 @@
-base-starter
-============
+EXAMPLE Base
+===========
 
-Starter project for a Topcoat css reset base component
+### Topcoat EXAMPLE base
+
+This is the base for all Topcoat EXAMPLEs.
