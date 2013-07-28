@@ -65,10 +65,6 @@ module.exports = function(grunt) {
         },
 
         simplemocha: {
-            options: {
-                ui: 'bdd',
-                reporter: 'Nyan'
-            },
             all: {
                 src: ['test/*.test.js']
             }
